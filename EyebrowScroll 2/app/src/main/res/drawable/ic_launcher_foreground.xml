@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FF2196F3"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0" />
+    <!-- Eye shape -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M20,54 Q54,30 88,54 Q54,78 20,54 Z" />
+    <!-- Pupil -->
+    <circle
+        android:fillColor="#FF1565C0"
+        android:cx="54"
+        android:cy="54"
+        android:r="10" />
+    <!-- Eyebrow -->
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M28,36 Q54,26 80,36" />
+</vector>

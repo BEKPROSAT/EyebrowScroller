@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FaceScroll</string>
+    <string name="accessibility_service_label">FaceScroll Gesture Control</string>
+    <string name="accessibility_service_description">Allows FaceScroll to scroll any app using tongue and teeth gestures detected by the front camera.</string>
+</resources>
